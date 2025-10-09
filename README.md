@@ -52,8 +52,8 @@ RESTful API 설계와 DB 모델링에 강점을 가지고 있으며, 유지보�
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 
 #### 🔧 ORM / SQL Mapper
-![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=spring&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat&logo=apache&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat)
+![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat)
 
 #### 🛠 Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
