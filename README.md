@@ -62,11 +62,6 @@ RESTful API 설계와 DB 모델링에 강점을 가지고 있으며, 유지보�
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 
 
----
 
-### 📈 GitHub Stats
-
-![Sejun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sejun0205&show_icons=true&theme=tokyonight&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sejun0205&layout=compact&theme=tokyonight)](https://github.com/sejun0205)
 
 
